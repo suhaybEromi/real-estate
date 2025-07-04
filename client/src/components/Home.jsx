@@ -1,7 +1,11 @@
+import Carousell from "./Carousell";
+
 export default function Home() {
   return (
     <div>
-      <h2>Home Page</h2>
+      <h2>
+        <Carousell />
+      </h2>
     </div>
   );
 }
