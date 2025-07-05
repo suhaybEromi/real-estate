@@ -1,7 +1,7 @@
-import { Container, Navbar, Nav, Row, Col } from "react-bootstrap";
+import { Container, Navbar, Nav } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
-import logo from "../assets/logo.png";
+import logo from "../assets/second-icon.png";
 
 export default function Navbarr() {
   return (
