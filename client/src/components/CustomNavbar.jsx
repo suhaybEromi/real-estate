@@ -1,7 +1,7 @@
 import { Container, Dropdown } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
-import logo from "../assets/second-icon.png";
+import logo from "../assets/first-icon.png";
 import iraq from "../assets/iraq.png";
 import united from "../assets/united.png";
 import kurdish from "../assets/kurdish.png";
