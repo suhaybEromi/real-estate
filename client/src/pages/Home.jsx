@@ -1,11 +1,11 @@
 import Carousell from "../components/Carousell";
+import CustomCard from "../components/CustomCard";
 
 export default function Home() {
   return (
     <div>
-      <h2>
-        <Carousell />
-      </h2>
+      <Carousell />
+      <CustomCard />
     </div>
   );
 }

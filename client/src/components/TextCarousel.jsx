@@ -7,7 +7,7 @@ const textOnImage = {
   fontWeight: "bold",
   position: "absolute",
   left: "50%",
-  top: "57%",
+  top: "60%",
   transform: "translate(-50%, -50%)",
   textAlign: "center",
 };
@@ -37,7 +37,6 @@ export default function TextCarousel() {
             Contact Us
           </Link>
         </button>
-        {/* <br /> */}
         <br />
         <br />
         <br />
